@@ -1,4 +1,4 @@
-# Compose-museum (Jetpack Compose)
+# Compose-museum
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/piashcse/compose-museum)
 [![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-1.8.3-%230075FF.svg)](https://developer.android.com/jetpack/compose)
 ![badge-Android](https://img.shields.io/badge/Platform-Android-brightgreen)
@@ -10,7 +10,7 @@
 [![Stars](https://img.shields.io/github/stars/piashcse/compose-museum?style=social)](https://github.com/your-username/Compose-Museum/stargazers)
 
 
-Compose-Museum is a Jetpack Compose-based showcase app that demonstrates modern UI components and best practices in Android development. This repository serves various UI elements, layouts, animations, and custom designs created with Jetpack Compose, leveraging its powerful declarative syntax
+Compose-Museum is a showcase app that demonstrates modern JetPack Compose UI components and best practices in Android development. This repository serves various UI elements, layouts, animations, and custom designs created with Jetpack Compose, leveraging its powerful declarative syntax
 
 <table>
   <tr>
