@@ -12,18 +12,88 @@
 
 Compose-Museum is a Jetpack Compose-based showcase app that demonstrates modern UI components and best practices in Android development. This repository serves various UI elements, layouts, animations, and custom designs created with Jetpack Compose, leveraging its powerful declarative syntax
 
-| Name                                                                                     | Demo                                                                                             |
-| ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
-| [Country list with flag](https://github.com/piashcse/Compose-museum/blob/master/app/src/main/java/com/piashcse/compose_museum/screens/CountryList.kt) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <div align="center"><img src="https://github.com/piashcse/compose-museum/blob/master/screenshots/gif/countrysearch.gif" width="30%" height="50%"></div> |
-| [ImageSlider](https://github.com/piashcse/compose-museum/blob/master/app/src/main/java/com/piashcse/compose_museum/screens/ImageSlider.kt) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <div align="center"><img src="https://github.com/piashcse/compose-museum/blob/master/screenshots/gif/slider.gif" width="30%" height="50%"></div> |
-| [TabView](https://github.com/piashcse/compose-museum/blob/master/app/src/main/java/com/piashcse/compose_museum/screens/TabScreen.kt) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <div align="center"><img src="https://github.com/piashcse/compose-museum/blob/master/screenshots/gif/tabview.gif" width="30%" height="50%"></div> |
-| [ExpandableList](https://github.com/piashcse/compose-museum/blob/master/app/src/main/java/com/piashcse/compose_museum/screens/ExpandaleList.kt) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <div align="center"><img src="https://github.com/piashcse/compose-museum/blob/master/screenshots/gif/expandable.gif" width="30%" height="50%"></div> |
-| [ImagePicker](https://github.com/piashcse/compose-museum/blob/master/app/src/main/java/com/piashcse/compose_museum/screens/ImagePicker.kt) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <div align="center"><img src="https://github.com/piashcse/compose-museum/blob/master/screenshots/gif/imagepicker.gif" width="30%" height="50%"></div> |
-| [Bottom Navigation](https://github.com/piashcse/compose-museum/blob/master/app/src/main/java/com/piashcse/compose_museum/screens/BottomNavigation.kt) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <div align="center"><img src="https://github.com/piashcse/compose-museum/blob/master/screenshots/gif/bottom_navigation.gif" width="30%" height="50%"></div> |
-| [BottomSheet](https://github.com/piashcse/compose-museum/blob/master/app/src/main/java/com/piashcse/compose_museum/screens/BottomSheetScreen.kt) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <div align="center"><img src="https://github.com/piashcse/compose-museum/blob/master/screenshots/gif/bottomsheet.gif" width="30%" height="50%"></div> |
-| [OnBoarding](https://github.com/piashcse/compose-museum/blob/master/app/src/main/java/com/piashcse/compose_museum/screens/OnBoarding.kt) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <div align="center"><img src="https://github.com/piashcse/compose-museum/blob/master/screenshots/gif/onboarding.gif" width="30%" height="50%"></div> |
-| [Date Time Picker](https://github.com/piashcse/compose-museum/blob/master/app/src/main/java/com/piashcse/compose_museum/screens/DateAndTimePicker.kt) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <div align="center"><img src="https://github.com/piashcse/compose-museum/blob/master/screenshots/gif/datetime.gif" width="30%" height="50%"></div> |
-| [Parallax Toolbar](https://github.com/piashcse/compose-museum/blob/master/app/src/main/java/com/piashcse/compose_museum/screens/ParallaxToolbar.kt) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <div align="center"><img src="https://github.com/piashcse/compose-museum/blob/master/screenshots/gif/parallax.gif" width="30%" height="50%"></div> |
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/piashcse/Compose-museum/blob/master/app/src/main/java/com/piashcse/compose_museum/screens/CountryList.kt">Country list with flag</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/piashcse/Compose-museum/blob/master/app/src/main/java/com/piashcse/compose_museum/screens/ImageSlider.kt">ImageSlider</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/piashcse/compose-museum/blob/master/screenshots/gif/countrysearch.gif" width="80%" />
+    </td>
+    <td align="center">
+      <img src="https://github.com/piashcse/compose-museum/blob/master/screenshots/gif/slider.gif" width="80%" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/piashcse/Compose-museum/blob/master/app/src/main/java/com/piashcse/compose_museum/screens/TabScreen.kt">TabView</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/piashcse/Compose-museum/blob/master/app/src/main/java/com/piashcse/compose_museum/screens/ExpandaleList.kt">ExpandableList</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/piashcse/compose-museum/blob/master/screenshots/gif/tabview.gif" width="80%" />
+    </td>
+    <td align="center">
+      <img src="https://github.com/piashcse/compose-museum/blob/master/screenshots/gif/expandable.gif" width="80%" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/piashcse/Compose-museum/blob/master/app/src/main/java/com/piashcse/compose_museum/screens/ImagePicker.kt">ImagePicker</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/piashcse/Compose-museum/blob/master/app/src/main/java/com/piashcse/compose_museum/screens/BottomNavigation.kt">Bottom Navigation</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/piashcse/compose-museum/blob/master/screenshots/gif/imagepicker.gif" width="80%" />
+    </td>
+    <td align="center">
+      <img src="https://github.com/piashcse/compose-museum/blob/master/screenshots/gif/bottom_navigation.gif" width="80%" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/piashcse/Compose-museum/blob/master/app/src/main/java/com/piashcse/compose_museum/screens/BottomSheetScreen.kt">BottomSheet</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/piashcse/Compose-museum/blob/master/app/src/main/java/com/piashcse/compose_museum/screens/OnBoarding.kt">OnBoarding</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/piashcse/compose-museum/blob/master/screenshots/gif/bottomsheet.gif" width="80%" />
+    </td>
+    <td align="center">
+      <img src="https://github.com/piashcse/compose-museum/blob/master/screenshots/gif/onboarding.gif" width="80%" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/piashcse/Compose-museum/blob/master/app/src/main/java/com/piashcse/compose_museum/screens/DateAndTimePicker.kt">Date Time Picker</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/piashcse/Compose-museum/blob/master/app/src/main/java/com/piashcse/compose_museum/screens/ParallaxToolbar.kt">Parallax Toolbar</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/piashcse/compose-museum/blob/master/screenshots/gif/datetime.gif" width="80%" />
+    </td>
+    <td align="center">
+      <img src="https://github.com/piashcse/compose-museum/blob/master/screenshots/gif/parallax.gif" width="80%" />
+    </td>
+  </tr>
+</table>
 
 ## 👨 Developed By
 
